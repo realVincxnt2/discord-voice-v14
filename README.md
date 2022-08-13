@@ -1,4 +1,4 @@
-# Simple Discord Bot v14 Base | Made by Vincxnt2
+# Discord Voice Bot | Made by Vincxnt2
 
 ## How To Install:
 
